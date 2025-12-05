@@ -13,3 +13,5 @@ func CountPartitions(nums []int) int {
 
 	return len(nums) - 1
 }
+
+// #for loop # %2 === 0

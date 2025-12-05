@@ -11,3 +11,5 @@ func Filter[T any](s []T, predicate func(T) bool) []T {
 
 	return result
 }
+
+/* #for loop #array */
